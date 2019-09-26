@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--Add test files here -->
+<suite name="ATMECSPROJECT">
+	<suite-files>
+		<suite-file
+			path="C:\Users\Srinischal.Thiparani\eclipse-workspace\atmecsproject\src\test\resources\suitefiles\homepage.xml" />
+			<suite-file
+			path="C:\Users\Srinischal.Thiparani\eclipse-workspace\atmecsproject\src\test\resources\suitefiles\testpage.xml"/>
+	</suite-files>
+</suite>

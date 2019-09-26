@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-26T13:33:27Z" name="Suite" finished-at="2019-09-26T13:33:42Z" duration-ms="14869">
+    <groups>
+    </groups>
+    <test started-at="2019-09-26T13:33:27Z" name="Test" finished-at="2019-09-26T13:33:42Z" duration-ms="14869">
+      <class name="com.atmecs.atmecsproject.testscripts.HomePage">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.atmecs.atmecsproject.testscripts.HomePage@1f1c7bf6]" started-at="2019-09-26T13:33:27Z" name="invokeBrowser" finished-at="2019-09-26T13:33:40Z" duration-ms="13634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="home()[pri:0, instance:com.atmecs.atmecsproject.testscripts.HomePage@1f1c7bf6]" started-at="2019-09-26T13:33:40Z" name="home" finished-at="2019-09-26T13:33:42Z" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+      </class> <!-- com.atmecs.atmecsproject.testscripts.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2019-09-26T13:33:42Z" name="Suite (0)" finished-at="2019-09-26T13:34:05Z" duration-ms="23000">
+    <groups>
+    </groups>
+    <test started-at="2019-09-26T13:33:42Z" name="Test" finished-at="2019-09-26T13:34:05Z" duration-ms="23000">
+      <class name="com.atmecs.atmecsproject.testscripts.TestingPage">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:com.atmecs.atmecsproject.testscripts.TestingPage@78b1cc93]" started-at="2019-09-26T13:33:42Z" name="invokeBrowser" finished-at="2019-09-26T13:33:54Z" duration-ms="12276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="test()[pri:0, instance:com.atmecs.atmecsproject.testscripts.TestingPage@78b1cc93]" started-at="2019-09-26T13:33:54Z" name="test" finished-at="2019-09-26T13:34:05Z" duration-ms="10723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.atmecs.atmecsproject.testscripts.TestingPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2019-09-26T13:34:05Z" name="ATMECSPROJECT" finished-at="2019-09-26T13:34:05Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- ATMECSPROJECT -->
+</testng-results>
